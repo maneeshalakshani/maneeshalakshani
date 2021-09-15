@@ -1,8 +1,22 @@
+<!--
 ### Hi there 👋 I'm Maneesha
 
 Lakshani N.V.M.  
 IT20013950  
 maneeshalakshani  
+-->
+
+### Hi there 👋, my name is **Maneesha**
+
+IT20013950
+maneeshalakshani
+
+#### I am a student
+![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg)
+
+
+- 🔭 I’m currently working on this page. 
+
 
 
 <!--
