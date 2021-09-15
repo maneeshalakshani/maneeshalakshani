@@ -6,12 +6,12 @@ IT20013950
 maneeshalakshani  
 -->
 
-### Hi there 👋, my name is **Maneesha**
+### Hi there 👋, I am **Maneesha**
 
 #### IT20013950  
 #### maneeshalakshani
 
-#### I am a student
+#### I am a student at SLIIT
 ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg)
 
 
