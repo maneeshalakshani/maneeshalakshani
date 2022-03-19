@@ -13,7 +13,7 @@ maneeshalakshani
 
 #### I am a student at SLIIT
 <!-- ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg) -->
-![I am a student](https://cte.capilanou.ca/wp-content/uploads/sites/19/2020/12/WELCOME-ST-IVES.jpg)
+![I am a student](https://i.pinimg.com/originals/de/16/58/de1658b746ed7f0ba04c3208f6fb0361.jpg)
 
 
 <!--
