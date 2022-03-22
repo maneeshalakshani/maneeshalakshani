@@ -1,4 +1,4 @@
-##### Hi there 👋, I am **Maneesha Lakshani**
+## Hi there 👋, I am **Maneesha Lakshani**
 
 #### I am an undergraduate at SLIIT
 <!-- ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg) -->
