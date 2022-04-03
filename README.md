@@ -6,3 +6,5 @@
 
 
 ![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical)
+
+[![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact)](https://github.com/maneeshalakshani/github-readme-stats)
