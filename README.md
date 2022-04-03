@@ -10,4 +10,4 @@
 [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical)](https://github.com/maneeshalakshani/github-readme-stats)
 
 
-[![Maneesha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats)
+<!-- [![Maneesha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats) -->
