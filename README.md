@@ -10,8 +10,8 @@
 <!-- <[![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical)](https://github.com/maneeshalakshani/github-readme-stats) -->
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maneeshalakshani=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshalakshani=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" width="240" src="https://github-readme-stats.vercel.app/api?username=maneeshalakshani=true&show_icons=true" align = "center"/>
+<img height="180em" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshalakshani=true&locale=en&layout=compact" align = "center"/>
 </p>
 
 
