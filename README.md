@@ -5,7 +5,7 @@
 <!-- ![I am a student](https://i.pinimg.com/originals/de/16/58/de1658b746ed7f0ba04c3208f6fb0361.jpg) -->
 
 
-![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=300) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=300)](https://github.com/maneeshalakshani/github-readme-stats)
+![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=100) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=300)](https://github.com/maneeshalakshani/github-readme-stats)
 
 <!-- <[![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical)](https://github.com/maneeshalakshani/github-readme-stats) -->
 
