@@ -1,7 +1,7 @@
 ## Hi there 👋, I am **Maneesha Lakshani**
 
 #### I am a 3rd year Software Engineering undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)
-#### I am working as an intern mobile application developer at Elzian Agro since Jan,2022.
+#### I am currently working at HCL Technologies as an Associate Software Engineer
 <!-- ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg) -->
 <!-- ![I am a student](https://i.pinimg.com/originals/de/16/58/de1658b746ed7f0ba04c3208f6fb0361.jpg) -->
 
