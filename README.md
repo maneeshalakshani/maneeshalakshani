@@ -29,7 +29,7 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/85009979/190880442-149be11c-7191-4403-a561-ad04e2b3934b.png"></code>
 
 
-![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=100) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=250)](https://github.com/maneeshalakshani/github-readme-stats)
+<!-- ![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=100) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=250)](https://github.com/maneeshalakshani/github-readme-stats) -->
 
 <!-- <[![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical)](https://github.com/maneeshalakshani/github-readme-stats) -->
 
