@@ -6,7 +6,15 @@
 <!-- ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg) -->
 <!-- ![I am a student](https://i.pinimg.com/originals/de/16/58/de1658b746ed7f0ba04c3208f6fb0361.jpg) -->
 
-### **languages and tools:**  
+![](https://komarev.com/ghpvc/?username=maneeshalakshani&color=green)
+
+## Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=maneeshalakshani&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=maneeshalakshani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+
+## **languages and tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/85009979/163198756-906a8f0f-17d0-44ae-b91b-538fb1506f0f.png"></code>
@@ -29,9 +37,13 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/85009979/180658780-d2495946-e405-4fc9-aa45-04c1c6d5b6d6.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/85009979/190880442-149be11c-7191-4403-a561-ad04e2b3934b.png"></code>
 
+## Streak:
 
-<!-- ![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=100) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=250)](https://github.com/maneeshalakshani/github-readme-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maneeshalakshani&theme=radical)](https://git.io/streak-stats)
+
+
+![Maneesha's Github Status](https://github-readme-stats.vercel.app/api?username=maneeshalakshani&show_icons=true&theme=radical&card_width=100) [![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical&card_width=250)](https://github.com/maneeshalakshani/github-readme-stats)
 
 <!-- <[![Maneesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshalakshani&layout=compact&theme=radical)](https://github.com/maneeshalakshani/github-readme-stats) -->
 
-<!-- [![Maneesha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats) -->
+<!-- [![Maneesha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats)-->
