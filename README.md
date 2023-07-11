@@ -1,6 +1,7 @@
 ## Hi there 👋, I am **Maneesha Lakshani**
 
-#### I am a 4th year Software Engineering undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)
+#### I am a 4th-year Software Engineering undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)
+#### 1 year and 7 months of working experience at the moment.
 #### I am currently working at HCL Technologies as an Associate Software Engineer
 
 ### Software Engineer | Flutter developer | React Developer
