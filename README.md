@@ -2,7 +2,7 @@
 
 #### I am a 4th-year Software Engineering undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)
 #### More than 2 years of working experience.
-#### I am currently working at HCL Technologies as an Associate Software Engineer
+<!-- #### I am currently working at Sysco Labs Sri Lanka as a Quality Engineer -->
 
 ### Software Engineer | Flutter developer | React Developer | Quality Engineer
 <!-- ![I am a student](https://hotelamstephansplatz.at/wp-content/uploads/2017/10/welcome-e1507551952811.jpg) -->
